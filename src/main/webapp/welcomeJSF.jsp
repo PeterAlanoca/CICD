@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Commit para Github Actions 7:46" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Commit para Imagen de Docker 19:36" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
