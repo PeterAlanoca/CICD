@@ -43,4 +43,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: peteralanoca/cicddockerimagePar2
+        tags: peteralanoca/cicddockerimagepar2
